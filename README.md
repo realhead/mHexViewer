@@ -11,9 +11,11 @@ A simply Hex viewer.
 - Searching by address.
 - 100MB maximum supported.
 - View only.  
+- Fixed windows size.  
 1. 高亮选中项。
 2. 搜索地址。
 3. 最大支持100MB文件。
 4. 只能查看，不能修改。
+5. 窗口大小固定不可调整。
 
 
