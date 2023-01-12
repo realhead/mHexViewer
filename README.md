@@ -1,6 +1,6 @@
 # mHexViewer
 ![ ](https://i.ibb.co/Q8htwyK/qt-logo.jpg)  
-A simply Hex viewer.   
+A simple Hex viewer.   
 超级简单的HEX格式查看器。
 
 ## Screenshot
