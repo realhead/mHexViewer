@@ -18,4 +18,7 @@ A simply Hex viewer.
 4. 只能查看，不能修改。
 5. 窗口大小固定不可调整。
 
+## Misc
+Only tested under Windows10 64bit OS.  
+只在WIN10 64位系统编译及测试过。
 
