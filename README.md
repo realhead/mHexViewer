@@ -9,8 +9,8 @@ A simple Hex viewer.
 ## Features
 - Highlights selection.
 - Searching by address.
-- 100MB maximum supported.
-- View only.  
+- 100MB file maximum.
+- View only, no edit. 
 - Fixed windows size.  
 1. 高亮选中项。
 2. 搜索地址。
