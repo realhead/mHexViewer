@@ -22,3 +22,6 @@ A simply Hex viewer.
 Only tested under Windows10 64bit OS.  
 只在WIN10 64位系统编译及测试过。
 
+## Thanks to
+https://github.com/virinext/QHexView
+
